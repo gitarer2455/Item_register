@@ -172,7 +172,7 @@ while(cap.isOpened()):
     
     	# Display video
 	imS = cv2.resize(frame_out, (960,720))
-	cv2.imshow('Output Counting - by Yaser Ali Husen', imS)
+	cv2.imshow('Output Counting - by Akrem kibrachew', imS)
 	cv2.waitKey(1)
     	# cv2.imshow('background mask', bw)
 	k = cv2.waitKey(1)
