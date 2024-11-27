@@ -15,7 +15,7 @@ ppm = 0
 ppm_average = 0
 #area = 12
 
-fn_yaml = r"C:\Users\Akrem\PycharmProjects\PythonProject5\datasets\area.yml"
+fn_yaml = r"C:\Users\Akrem\your directory\area.yml"
 fn_out = r"../datasets/output.avi"
 config = {'save_video': False,
           'text_overlay': True,
